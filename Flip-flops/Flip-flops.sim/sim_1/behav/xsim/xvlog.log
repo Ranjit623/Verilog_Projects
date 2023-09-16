@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Flip-flops/Flip-flops.srcs/sources_1/new/FF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module JKFF
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Flip-flops/Flip-flops.srcs/sim_1/new/FF_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FF_test

@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"Circuit_test_time_synth.v" \
+"../../../../../2level_comb.srcs/sim_1/new/Circuit_test.v" \
+
+# Do not sort compile order
+nosort

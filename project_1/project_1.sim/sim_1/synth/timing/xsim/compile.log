@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/project_1/project_1.sim/sim_1/synth/timing/xsim/AND_gate_test_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AND_gate
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/project_1/project_1.srcs/sim_1/new/AND_gate_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AND_gate_test

@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"FF_test_time_synth.v" \
+"../../../../../Flip-flops.srcs/sim_1/new/FF_test.v" \
+
+# Do not sort compile order
+nosort

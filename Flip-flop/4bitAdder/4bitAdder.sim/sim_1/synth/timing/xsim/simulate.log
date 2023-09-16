@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+                   0A = 1010; B = 0101; M = 0; S = x; cout = x
+                   2A = 1010; B = 0101; M = 0; S = x; cout = 0
+                   5A = 1010; B = 0101; M = 0; S = 1; cout = 0
+                  40A = 1010; B = 0101; M = 1; S = 1; cout = 0
+                  80A = 1000; B = 0101; M = 0; S = 1; cout = 0
+                 120A = 1000; B = 0101; M = 1; S = 1; cout = 0
+                 160A = 1000; B = 0111; M = 0; S = 1; cout = 0
+                 200A = 1000; B = 0111; M = 1; S = 1; cout = 0

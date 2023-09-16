@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+                   0a = 0, b = 0, c = 0, S = x, C = x
+                   5a = 0, b = 0, c = 0, S = 0, C = 0
+                  10a = 0, b = 0, c = 1, S = 0, C = 0
+                  15a = 0, b = 0, c = 1, S = 1, C = 0
+                  20a = 0, b = 1, c = 0, S = 1, C = 0
+                  30a = 0, b = 1, c = 1, S = 1, C = 0
+                  35a = 0, b = 1, c = 1, S = 0, C = 1
+                  40a = 1, b = 0, c = 0, S = 0, C = 1
+                  45a = 1, b = 0, c = 0, S = 1, C = 0
+                  50a = 1, b = 0, c = 1, S = 1, C = 0
+                  55a = 1, b = 0, c = 1, S = 0, C = 1
+                  60a = 1, b = 1, c = 0, S = 0, C = 1
+                  70a = 1, b = 1, c = 1, S = 0, C = 1
+                  75a = 1, b = 1, c = 1, S = 1, C = 1
+$finish called at time : 80 ns : File "D:/Verilog Projects/Full_Adder/Full_Adder.srcs/sim_1/new/FAdder_test.v" Line 20

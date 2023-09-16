@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../4bitAdder.srcs/sources_1/new/4Adder.v" \
+"../../../../4bitAdder.srcs/sources_1/new/AddSub.v" \
+"../../../../4bitAdder.srcs/sim_1/new/AddSub_test.v" \
+"../../../../4bitAdder.srcs/sources_1/new/Carry.v" \
+"../../../../4bitAdder.srcs/sources_1/new/FAdder.v" \
+"../../../../4bitAdder.srcs/sources_1/new/Sum.v" \
+"../../../../4bitAdder.srcs/sources_1/new/coninv.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

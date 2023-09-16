@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Sequential_Circuits/Sequential_Circuits.srcs/sources_1/new/Latch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Latch
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Sequential_Circuits/Sequential_Circuits.srcs/sim_1/new/Latch_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Latch_test

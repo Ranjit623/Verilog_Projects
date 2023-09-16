@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"Gates_test_func_synth.v" \
+"../../../../../Basic_Gates.srcs/sim_1/new/Gates_test.v" \
+
+# Do not sort compile order
+nosort

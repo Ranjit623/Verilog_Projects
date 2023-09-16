@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Sequential_Circuits.srcs/sources_1/new/Latch.v" \
+"../../../../Sequential_Circuits.srcs/sim_1/new/Latch_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

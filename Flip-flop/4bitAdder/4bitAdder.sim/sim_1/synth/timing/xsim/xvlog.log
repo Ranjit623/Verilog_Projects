@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/4bitAdder/4bitAdder.sim/sim_1/synth/timing/xsim/AddSub_test_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AddSub
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/4bitAdder/4bitAdder.srcs/sim_1/new/AddSub_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AddSub_test

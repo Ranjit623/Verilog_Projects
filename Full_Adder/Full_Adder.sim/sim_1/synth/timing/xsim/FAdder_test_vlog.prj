@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"FAdder_test_time_synth.v" \
+"../../../../../Full_Adder.srcs/sim_1/new/FAdder_test.v" \
+
+# Do not sort compile order
+nosort

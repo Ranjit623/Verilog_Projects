@@ -1,0 +1,10 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+D:/Verilog Projects/4bitAdder/4bitAdder.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+D:/Verilog Projects/4bitAdder/4bitAdder.srcs/sim_1/new/4Adder_test.v,1690725506,verilog,,,,RAdder_test,,,,,,,,
+D:/Verilog Projects/4bitAdder/4bitAdder.srcs/sources_1/new/4Adder.v,1690723746,verilog,,D:/Verilog Projects/4bitAdder/4bitAdder.srcs/sources_1/new/Carry.v,,RAdder,,,,,,,,
+D:/Verilog Projects/4bitAdder/4bitAdder.srcs/sources_1/new/Carry.v,1690711706,verilog,,D:/Verilog Projects/4bitAdder/4bitAdder.srcs/sources_1/new/FAdder.v,,Carry,,,,,,,,
+D:/Verilog Projects/4bitAdder/4bitAdder.srcs/sources_1/new/FAdder.v,1690711977,verilog,,D:/Verilog Projects/4bitAdder/4bitAdder.srcs/sources_1/new/Sum.v,,FAdder,,,,,,,,
+D:/Verilog Projects/4bitAdder/4bitAdder.srcs/sources_1/new/Sum.v,1690711501,verilog,,D:/Verilog Projects/4bitAdder/4bitAdder.srcs/sim_1/new/4Adder_test.v,,Sum,,,,,,,,

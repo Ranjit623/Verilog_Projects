@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+                   0Data = a795, Sel = 0, Y = 1
+                  10Data = a795, Sel = 1, Y = 0
+                  20Data = a795, Sel = 2, Y = 1
+                  30Data = a795, Sel = 3, Y = 0
+                  40Data = a795, Sel = 4, Y = 1
+                  50Data = a795, Sel = 5, Y = 0
+                  60Data = a795, Sel = 6, Y = 1
+                  70Data = a795, Sel = 7, Y = 0
+                  80Data = a795, Sel = 8, Y = 1
+                  90Data = a795, Sel = 9, Y = 0
+                 100Data = a795, Sel = a, Y = 1
+                 110Data = a795, Sel = b, Y = 0
+                 120Data = a795, Sel = c, Y = 1
+                 130Data = a795, Sel = d, Y = 0
+                 140Data = a795, Sel = e, Y = 1
+                 150Data = a795, Sel = f, Y = 0
+$finish called at time : 160 ns : File "D:/Verilog Projects/Mux_16X1/Mux_16X1.srcs/sim_1/new/Mux16_test.v" Line 30

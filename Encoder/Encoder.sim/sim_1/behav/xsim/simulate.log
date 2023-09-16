@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+                   0A = 80, X = 1, Y = 1, Z = x
+                  40A = 40, X = 1, Y = x, Z = 1
+                  80A = 20, X = 1, Y = x, Z = x
+                 120A = 10, X = x, Y = 1, Z = 1
+                 160A = 08, X = x, Y = 1, Z = x
+                 200A = 04, X = x, Y = x, Z = 1
+                 240A = 02, X = x, Y = x, Z = x
+                 280A = 01, X = x, Y = x, Z = x
+$finish called at time : 320 ns : File "D:/Verilog Projects/Encoder/Encoder.srcs/sim_1/new/Encoder_test.v" Line 21

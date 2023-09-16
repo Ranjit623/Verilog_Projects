@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Counter/Counter.sim/sim_1/synth/func/xsim/count_test_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TFF
+INFO: [VRFC 10-311] analyzing module TFF_0
+INFO: [VRFC 10-311] analyzing module TFF_1
+INFO: [VRFC 10-311] analyzing module TFF_2
+INFO: [VRFC 10-311] analyzing module count
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog Projects/Counter/Counter.srcs/sim_1/new/count_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module count_test
